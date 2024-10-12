@@ -6,7 +6,7 @@ const About: React.FC = () => {
       <h2 className="text-3xl font-bold mb-8">About Me</h2>
       <div className="flex flex-col md:flex-row items-center">
         <img
-          src="../Images/Me.jpg"
+          src="./Images/Me.jpg"
           alt="Tejal Singh"
           className="rounded-full w-64 h-64 object-cover mb-8 md:mb-0 md:mr-8 animate-hover"
         />
